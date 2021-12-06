@@ -1,0 +1,11 @@
+/* css for hearder */
+.col-md-12{
+    padding: 0;
+}
+.my_intro{
+    text-align: justify;
+}
+.contact__item-title,.contact__agree-title {
+    font-size: 16px;
+    color: #666;
+}
